@@ -1,6 +1,7 @@
 # 大学生职业规划智能体 · Career Pathfinder
 
 > 项目：基于 AI 的大学生职业规划智能体
+
 > 定位：面向高校就业场景的 GraphRAG + Agent + 规则约束 AI 应用
 > 版本：3.0.0
 
